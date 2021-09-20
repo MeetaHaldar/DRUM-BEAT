@@ -54,7 +54,7 @@ background-image: url('/images/crash.png');
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
+  box-shadow: 0 3px 4px 0 #2b2f30;
   opacity: 0.5;
 }
 
