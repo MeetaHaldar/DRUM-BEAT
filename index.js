@@ -18,10 +18,10 @@ document.addEventListener("keypress",function(event){
     buttonAnimation(event.key);
 });
 
-function makesound(key){
+function makesound(bingo){
 
 
-switch(key)
+switch(bingo)
 {
     case "w": var crash=new Audio('./sounds/crash.mp3');
     crash.play();
